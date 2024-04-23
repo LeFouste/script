@@ -1,0 +1,5 @@
+kostatest:djordjevic:eleves,co-predisent,associaion,bde:oui:azerty123
+Alice:Liddell:developpeur,design:oui:WonderLand
+Bob:Builder:construction,design:non:CanW3FixIt
+Charlie:Chaplin::oui:SilentGenius
+Diana:Prince:justice,diplomatie:oui:Themyscira
